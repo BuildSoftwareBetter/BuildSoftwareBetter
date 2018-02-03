@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "你好，世界"
+title:  hello world jeklly
 category: jekyll 
 description: test smy
 ---
 
 
-<p>我的第一篇文章</p>
+我的第一篇文章
