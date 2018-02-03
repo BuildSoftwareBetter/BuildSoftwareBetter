@@ -2,7 +2,7 @@
 layout: post
 title:  hello world jeklly2
 category: jekyll 
-description: test smy
+description: test smy2
 ---
 
-我的第一篇文章
+<p>我的第一篇文章</p>
