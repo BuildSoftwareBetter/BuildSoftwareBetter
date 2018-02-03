@@ -4,17 +4,21 @@ title: David‘s Blog
 ---
 
 <div class="home">
-  <div class="post-list">
 
-    {% for post in site.posts limit:5%}
-
-    <article class="post_card post">
-	<p>最新文章</p>
+<p>最新文章</p>
 　　<ul>
 　　　　{% for post in site.posts %}
 　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 　　　　{% endfor %}
 　　</ul>
+  <div class="post-list">
+
+    <article class="post_card post">
+	
+
+    {% for post in site.posts limit:5%}
+
+  
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
