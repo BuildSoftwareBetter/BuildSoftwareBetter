@@ -2,7 +2,7 @@
 layout: post
 title: "ÄãºÃ£¬ÊÀ½ç"
 category: jekyll 
-description: test
+description: test smy
 ---
 
 <h2>{{ page.title }}</h2>
