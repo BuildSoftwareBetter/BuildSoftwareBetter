@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "你好，世界"
+date: 2018-02-12 21:06:26 +0800
+categories: jekyll
 ---
 <h2>{{ page.title }}</h2>
 <p>我的第一篇文章</p>
