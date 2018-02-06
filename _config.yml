@@ -10,6 +10,7 @@ name: "大伟哥的博客"
 url: https://buildsoftwarebetter.github.io/
 domain: https://buildsoftwarebetter.github.io/
 all_categories: [
+["wpf", "Wpf开发","/posts/wpf.html"], 
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
