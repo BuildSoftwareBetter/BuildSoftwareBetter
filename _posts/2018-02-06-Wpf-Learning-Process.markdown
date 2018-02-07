@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "wpf"
-title:  "Wpf知识点概要"
+title:  "Wpf基础（一）知识点概要"
 tags: [wpf,入门,知识点]
 ---
 

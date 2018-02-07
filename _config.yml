@@ -27,3 +27,5 @@ timezone: America/Los_Angeles
 collections:
   docs:
     output: true
+plugins:
+ - jekyll-paginate

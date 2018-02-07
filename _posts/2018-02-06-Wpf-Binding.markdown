@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "wpf"
-title:  "Binding 数据绑定"
+title:  "Wpf基础（二）Binding 数据绑定"
 tags: [WPF,Binding]
 ---
 
